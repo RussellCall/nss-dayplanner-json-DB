@@ -1,0 +1,52 @@
+{
+  "dayItems1": [],
+  "dayItems2": [],
+  "dayItems3": [],
+  "dayItems4": [],
+  "dayItems5": [],
+  "dayItems6": [],
+  "dayItems7": [],
+  "toDoItems": [],
+  "priorityItems": [
+    {
+      "task": "Priority 1",
+      "userId": 4,
+      "id": 1
+    },
+    {
+      "task": "Priority 2",
+      "userId": 4,
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "description": "Birthday"
+    },
+    {
+      "id": 2,
+      "description": "Anniversary"
+    },
+    {
+      "id": 3,
+      "description": "Party"
+    },
+    {
+      "id": 4,
+      "description": "Work Related"
+    },
+    {
+      "id": 5,
+      "description": "Other"
+    }
+  ],
+  "users": [
+    {
+      "name": "Bill",
+      "address": "1123 tall drive",
+      "email": "Bill@mail.com",
+      "id": 2
+    }
+  ]
+}
